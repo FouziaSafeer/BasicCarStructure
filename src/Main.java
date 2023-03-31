@@ -10,6 +10,10 @@ public class Main {
         x.size="1233";
         x.weight="6565K";
 
+        Color col=new Color();
+        col.colorCar="True";
+        col.colorLights="False";
+        col.colorWindow="True";
 
 
 
