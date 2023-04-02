@@ -15,6 +15,13 @@ public class Main {
         col.colorLights="False";
         col.colorWindow="True";
 
+        Lights neon=new Lights();
+        neon.intensity="4586";
+        neon.color="red";
+        neon.size="15am";
+
+
+
 
 
     }
